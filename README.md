@@ -21,6 +21,13 @@ step 1: magic ring <br> step 2: chain 2 <br> step 3: 3 double crochet (in magic 
 <h2> smol crescent moon</h2> 
 <p> step 1: slip knot <br> step 2: chain 8 <br> step 3: single crochet starting in the 2nd chain <br> step 4: half double crochet increase (in one stitch=1s) <br> step 5: double crochet increase (1s) <br> step 6: 3 treble crochet (1s) <br> step 7: double crochet increase (1s) <br> step 8: half double crochet increase (1s) <br> step 9: single crochet <br> step 10: slip stitch <br> step 11: fasten off end <br> done!!
 
+<style> 
+h1, h2, p {color: #4B2C52;} 
+body {background: #F8EBFF;}
+
+body {font-family: "Hachi Maru Pop", cursive; font-weight: 400; font-style: normal; font-size: 20px;}
+</style>
+
 </body>
 
 </html> 
