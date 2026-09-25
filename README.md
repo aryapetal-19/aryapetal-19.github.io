@@ -25,7 +25,11 @@ step 1: magic ring <br> step 2: chain 2 <br> step 3: 3 double crochet (in magic 
 h1, h2, p {color: #4B2C52;} 
 body {background: #F8EBFF;}
 
-h1, h2, p {font-family: "Hachi Maru Pop", cursive; font-weight: 400; font-style: normal; font-size: 20px;}
+h1, h2, p {
+  font-family: "Hachi Maru Pop", cursive; 
+  font-weight: 400; 
+  font-style: normal; 
+  font-size: 20px;}
 </style>
 
 </body>
